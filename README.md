@@ -1,9 +1,6 @@
 # Granada Pride Laravel Flash
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/granada-pride/laravel-flash.svg?style=flat-square)](https://packagist.org/packages/granada-pride/laravel-flash)
-[![GitHub Tests Action Status](https://img.shields.io/github/workflow/status/granada-pride/laravel-flash/run-tests?label=tests)](https://github.com/granada-pride/laravel-flash/actions?query=workflow%3Arun-tests+branch%3Amain)
-[![GitHub Code Style Action Status](https://img.shields.io/github/workflow/status/granada-pride/laravel-flash/Fix%20PHP%20code%20style%20issues?label=code%20style)](https://github.com/granada-pride/laravel-flash/actions?query=workflow%3A"Fix+PHP+code+style+issues"+branch%3Amain)
-[![Total Downloads](https://img.shields.io/packagist/dt/granada-pride/laravel-flash.svg?style=flat-square)](https://packagist.org/packages/granada-pride/laravel-flash)
+[![Github All Releases](https://img.shields.io/packagist/dt/granada-pride/laravel-flash)]()
 
 A beautiful, feature-rich Laravel package for flash notifications with support for both Bootstrap and Tailwind CSS frameworks. Create elegant success, error, warning, and info messages with animations, icons, and customizable styling.
 
