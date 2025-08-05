@@ -1,7 +1,5 @@
 # Granada Pride Laravel Flash
 
-[![Github All Releases](https://img.shields.io/packagist/dt/granada-pride/laravel-flash)]()
-
 A beautiful, feature-rich Laravel package for flash notifications with support for both Bootstrap and Tailwind CSS frameworks. Create elegant success, error, warning, and info messages with animations, icons, and customizable styling.
 
 ## Features
