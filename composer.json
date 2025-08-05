@@ -1,0 +1,32 @@
+{
+    "name": "granada-pride/laravel-flash",
+    "description": "A Laravel package for flash notifications with Bootstrap or Tailwind support",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "GranadaPride\\LaravelFlash\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hussein Gaber",
+            "email": "148823784+hussaingaber@users.noreply.github.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "GranadaPride\\LaravelFlash\\FlashNotificationsServiceProvider"
+            ],
+            "aliases": {
+                "Flash": "GranadaPride\\LaravelFlash\\Facades\\Flash"
+            }
+        }
+    },
+    "minimum-stability": "stable",
+    "config": {
+        "optimize-autoloader": true,
+        "classmap-authoritative": true
+    }
+}
